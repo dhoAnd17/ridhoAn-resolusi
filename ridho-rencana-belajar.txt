@@ -10,3 +10,4 @@ Rencana Belajar:
   ^Laravel
 - fundamental data structure
 -phyton
+- C
