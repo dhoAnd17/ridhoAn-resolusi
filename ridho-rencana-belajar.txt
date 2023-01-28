@@ -3,3 +3,4 @@ Rencana Belajar:
 - javascript
   * ES6
 - php
+- fundamental data structure
