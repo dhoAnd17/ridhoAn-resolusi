@@ -2,8 +2,12 @@ Rencana Belajar:
 
 - javascript
   * ES6
-  *Framework JavaScript
-   ^Angular
+  * Framework Javasctipt
+    ^ Vue
+    ^ React
 - php
- *framework
+ * Frameworks
   ^Laravel
+- fundamental data structure
+-phyton
+- C
